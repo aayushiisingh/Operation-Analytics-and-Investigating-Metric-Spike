@@ -1,0 +1,23 @@
+OPERATION ANALYTICS
+for the understanding of operational analytics we have use the following dataset 
+Dataset-https://docs.google.com/spreadsheets/d/1LYqpnSJTQhXTKlvv04mApT7T9_LzExRKsHem3lt4YX8/edit#gid=0
+
+
+METRIC SPIKE
+For Investigating metric spike i have used 3 datasets
+
+Table 1 :users
+This table includes one row per user, with descriptive information about that user’s account
+Dataset: https://drive.google.com/file/d/104VAIgSUXtRtqxEKULCD2_5Vh5LCoNHG/view?usp=share_link
+
+Table 2: Events
+This table includes one row per event, where an event is an action that a user has taken. These
+events include login events, messaging events, search events, events logged as users progress
+through a signup funnel, events around received emails
+Dataset: https://drive.google.com/file/d/1qMHK5ZQ0vVoMjGz31K163LiTF-Fk39Ab/view
+
+Table 3: Email Events
+This table contains events specific to the sending of emails. It is similar in structure to the events
+table above.
+Dataset:https://drive.google.com/file/d/1OBQ83KtPUtI5LfogubcwjgvTUgtQUO4l/view?usp=share_link
+
